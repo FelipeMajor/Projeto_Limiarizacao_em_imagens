@@ -1,9 +1,9 @@
 # Projeto – Limiarização de Imagens
 
-## Autores
-Fabricio da Costa Fernandes (RA: 11202321635)
-Felipe de Lima Major (RA: 11202230321)
-Lilian Gimenez Teixeira (RA: 11202332321)
+## Autores 
+Fabricio da Costa Fernandes (RA: 11202321635)<br>
+Felipe de Lima Major (RA: 11202230321)<br>
+Lilian Gimenez Teixeira (RA: 11202332321)<br>
 
 ## Descrição do Projeto
 Este repositório contém o relatório e os códigos desenvolvidos para o estudo de **limiarização de imagens** utilizando Python, OpenCV e Jupyter Notebook.
